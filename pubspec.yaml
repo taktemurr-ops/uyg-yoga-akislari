@@ -16,7 +16,7 @@ dependencies:
   saglik_motoru:
     git:
       url: https://github.com/taktemurr-ops/saglik-motoru
-      ref: 7746af76318c0b1d637ef68b35bedffb5fc135a6
+      ref: 00b7d44890d4e349d4df99fa82b4896abc671462
 
 dev_dependencies:
   flutter_test:
